@@ -1,4 +1,5 @@
-{/* <script> */}
+// Alert for opening web in laptop
+alert('Please Open in Computer or Laptop.');
 
 /* //Get the button: */
 mybutton = document.getElementById("myBtn");
