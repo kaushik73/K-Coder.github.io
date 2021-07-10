@@ -1,0 +1,83 @@
+nav {
+    background-color: black;
+    display: flex;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    /* height: 52px; */
+    /* border-radius: 16px; */
+    margin-right: -79px;
+    width: 267px;
+  }
+  .logo:hover {
+    cursor: pointer;
+    
+  
+  }
+
+  nav {
+    display: flex;
+  }
+
+  nav ul {
+    display: flex;
+    align-items: center;
+    height: 107px;
+
+  }
+
+  nav ul li {
+    list-style: none;
+    padding: 0 15px;
+  }
+
+  nav ul li a {
+    padding: 0px 5px;
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+  }
+
+  nav ul li a:hover {
+    color: rgba(28, 240, 92, 0.582);
+  }
+/* 
+  #gfg-text {
+    color: green;
+  font-size: 20px;
+  margin-right: 211px;
+  margin-left: -269px;
+  margin-top: 80px;
+  text-decoration: none;
+  } */
+
+  /* #gfg-text :hover {
+    color: white;
+  } */
+
+  .social-nav {
+    /* background-color:white; */
+    display: inline-block;
+    margin-left: 731px;
+  }
+
+  .social-nav li a {
+    /* color: black; */
+    padding: -4px;
+    color: green;
+  }
+
+  #instagram {
+    padding-right: 0px;
+  }
+
+  #linkedin {
+    padding-right: 2px;
+  }
+
+  #github {
+    padding-right: 40 px;
+  }

@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+p {
+    font-size: 19px;
+  }
+.heading-- {
+    /* <hr> */
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 17px;
+    padding:12px;
+
+    /* background-color:green; */
+  }
+ 
+  h3 {
+    margin: 5px;
+    font-size: 18px;
+    font-family: "Ubuntu", sans-serif;
+
+  }
+
+  .li-- {
+    font-size: 19px;
+    text-decoration: none;
+  }
+
+  .text-decoration {
+    text-decoration: none;
+  }
+  .center {
+    background-color:rgba(124, 240, 124, 0.74);
+    text-align: center;
+    padding:12px;
+  }
+
+  /* .center-youtube{
+  position: absolute;
+  margin: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} */
+
+
+
+      /* background-image: url("https://source.unsplash.com/1200x300/?laptop,study"); */   
+      /* taking any background-image from unsplash.com */
