@@ -1,6 +1,6 @@
 # Website for Front-End Developers
 
-. On this website you can get handwritten notes, video, learning website links, reference links and much more
+On this website you will get handwritten notes, video, learning website links, reference links and much more
 # HTML 
 HTML stands for Hyper Text Markup Language
 HTML is the standard markup language for creating Web pages
@@ -21,3 +21,4 @@ JavaScript is easy to learn.
 Bootstrap is a free and open-source framework for creating websites and web applications. 
 It's the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 Bootstrap enables you to create responsive websites without you needing to do the "responsive" bit.
+# Link : https://kaushik73.github.io/K-Coder.github.io/
